@@ -16,6 +16,6 @@ Key Features:
 
 Please note that the following email address and password are required to log in as an administrator:
 - Email: csc099g1@gmail.com
-- Password: 040225
+- Password: 0000
 
 Please remember to treat this information as sensitive and only use it within the designated scope of this project.
